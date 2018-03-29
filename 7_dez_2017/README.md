@@ -1,7 +1,7 @@
 # Participantes
-Marina
-Manolo
-Gonçalves
-Oliver
-Renan
-Silveirinha
+* Marina
+* Manolo
+* Gonçalves
+* Oliver
+* Renan
+* Silveirinha
